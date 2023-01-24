@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-datageek
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Javascript, Ruby, React and Flutter
+- 🌱 I’m currently learning Javascript, Ruby, ReactJS and Flutter
 - 📫 How to reach me moraaf770@gmail.com
 
 <!---
