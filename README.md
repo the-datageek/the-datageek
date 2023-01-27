@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   19 hrs 48 mins  █████████████████▓░░░░░░░   71.07 %
-SCSS         4 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-CSS          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Markdown     1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JavaScript   23 hrs 49 mins  ███████████████▒░░░░░░░░░   61.03 %
+CSS          7 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+SCSS         5 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Markdown     1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
