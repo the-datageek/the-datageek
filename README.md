@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         49 mins         ████████████████████░░░░░   79.80 %
-JavaScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Ruby         2 hrs 36 mins   ███████████████████████▓░   94.58 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
