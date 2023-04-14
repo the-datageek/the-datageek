@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-datageek
-- 👀 I’m interested in App Development
+- 👀 I’m interested in App Development and UI/UX Design
 - 🌱 I’m currently learning Javascript,ReactJS, Ruby on Rails and Flutter
 - 📫 How to reach me moraaf770@gmail.com
 
