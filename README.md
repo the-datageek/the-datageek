@@ -10,17 +10,17 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 22 April 2023
+From: 27 November 2022 - To: 23 April 2023
 
-Total Time: 387 hrs 27 mins
+Total Time: 389 hrs 58 mins
 
-JavaScript   166 hrs 22 mins ██████████▓░░░░░░░░░░░░░░   42.94 %
-CSS          94 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Ruby         65 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-HTML         31 hrs 24 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-JSON         9 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Markdown     8 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-SCSS         5 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JavaScript   168 hrs 39 mins ██████████▓░░░░░░░░░░░░░░   43.25 %
+CSS          94 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Ruby         65 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+HTML         31 hrs 24 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JSON         9 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown     8 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+SCSS         5 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Other        3 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
