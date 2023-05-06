@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 03 May 2023
+From: 27 November 2022 - To: 04 May 2023
 
 Total Time: 404 hrs 9 mins
 
@@ -22,6 +22,8 @@ Markdown     10 hrs 41 mins  ▓░░░░░░░░░░░░░░░░
 JSON         9 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 SCSS         5 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 Other        3 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+YAML         1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
